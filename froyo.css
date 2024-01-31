@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.title {
+    font-size: 3rem;
+}
+
+.container {
+    display: flex;
+    border: 1px solid black;
+    background-color: pink;
+}
